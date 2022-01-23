@@ -41,7 +41,7 @@ body{
   font-size: 102px;
   margin: 0 0 0 64px;
   order: 2;
-  z-index: 2; 
+  z-index: 2;
   font-weight: bold;
 }
 .header__subtitle{
@@ -91,7 +91,7 @@ justify-content: space-between;
 align-items: stretch;
 }
 .two-column__brief{
-  margin: 0 auto; 
+  margin: 0 auto;
   width: 175px;
   align-self: stretch;
   line-height: 1.2;
@@ -291,7 +291,6 @@ align-content: flex-start;
   line-height: 30px;
   font-size: 18px;
   font-weight: bold;
-  color: white;
 }
 .footer__column-link{
 margin: 20px 0 16px;
